@@ -6,6 +6,3 @@
 | `987654321` | `@PartnerDev` | `RobloxDev_1` | [YouTube](https://...) |
 
 ---
-
-### ⚙️ Управление (Только для владельца)
-[➕ Добавить или изменить партнёра](https://github.com/SteelPaladin1/partners-list-LTTD/edit/main/index.md)
