@@ -19,5 +19,7 @@
 | `1328932799020793898` | `mark_gamertd` | `@Markmama1245` | [YouTube](https://www.youtube.com/@MarkGamer_TD) |
 | `1373198497674690611` | `malagati6233` | `@YangkaiX09522` | [TikTok](https://www.tiktok.com/@soapsappy) |
 | `1492047397562613760` | `divine066127` | `@disnine4` | [YouTube](https://www.youtube.com/@Demon_724) |
+| `1311141814279081994` | `niahuser` | `@niahuser` | [YouTube](https://youtube.com/@niahuser) |
+| `972884791080931408` | `itzbringz` | `@AyonSOLO` | [YouTube](https://www.youtube.com/@itzmrbringz) |
 
 ---
