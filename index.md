@@ -10,7 +10,6 @@
 | `1490088454485184716` | `nospem` | `@NotAimLockingBozzzzo` | [YouTube](https://www.youtube.com/@spemchick) |
 | `1068523573968379967` | `realruurpc` | `@RuurPC` | [YouTube](https://www.youtube.com/@RUURPC/) |
 | `1484398917746425960` | `cris093376` | `@emcrisban2` | [YouTube](https://www.youtube.com/@emcrisas0707) |
-| `970806175945859132` | `krazzzyyt` | `@RealMixtyYT` | [YouTube](https://www.youtube.com/@MixtyYT/) |
 | `950224738054184981` | `Sylvanpaprika8` | `@elhaker19842` | [TikTok](https://www.tiktok.com/@sylvanpaprika8) |
 | `540980221663248394` | `EXrekt` | `@EXrekt01` | [YouTube](https://www.youtube.com/@EXrekt) |
 | `714584726983278644` | `lu4catreiyt` | `@acirdapps` | [YouTube](https://www.youtube.com/@lu4catreiyt) |
