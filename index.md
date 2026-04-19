@@ -6,7 +6,6 @@
 | `1250113245176533042` | `livingwemax` | `@loshkalolik` | [YouTube](https://www.youtube.com/@Wemax_YT) |
 | `1334659555820441643` | `cameramann_edits` | `@FAN12_YTT8` | [YouTube](https://www.youtube.com/@CAMERAMANN_EDITS) |
 | `1264366456435376229` | `angelplays1234` | `@Angelplays5685` | [YouTube](https://www.youtube.com/@angelplays1234) |
-| `1406470952644251761` | `kevin_theluckyboy` | `@nhinconcacgithangngu` | [YouTube](https://www.youtube.com/@Bear-013/) |
 | `1405851707724005428` | `anbylyhappy_27813` | `@saada0314` | [YouTube](https://www.youtube.com/@블션-Blushion) |
 | `1490088454485184716` | `nospem` | `@NotAimLockingBozzzzo` | [YouTube](https://www.youtube.com/@spemchick) |
 | `1068523573968379967` | `realruurpc` | `@RuurPC` | [YouTube](https://www.youtube.com/@RUURPC/) |
